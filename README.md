@@ -181,12 +181,12 @@ Finally, make sure GitHub Pages option in your GitHub project settings is set to
 ## Contributors ✨
 
 <table>
-	 <tr>
-		 <td>
-       <a href="https://github.com/aryasoni98/aryasoni98.github.io/graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=aryasoni98/aryasoni98.github.io" />
-      </a>
+	<tr>
+		<td>
+	       <a href="https://github.com/aryasoni98/Portfolio/graphs/contributors">
+	      <img src="https://contrib.rocks/image?repo=aryasoni98/Portfolio" />
+	      </a>
       </a>
 		</td>
-  </tr>
+  	</tr>
 </table>
